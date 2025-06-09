@@ -1,4 +1,4 @@
-## TIMotion
+## TIMotion (CVPR 2025)
 **TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation**
 
 <a href='https://aigc-explorer.github.io/TIMotion-page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2408.17135'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
