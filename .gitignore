@@ -1,0 +1,11 @@
+checkpoints
+results
+__pycache__
+.idea
+venv
+evaluation_*
+cache
+eval_model
+bad_*
+run/
+eval_log
